@@ -1,0 +1,46 @@
+body {
+    height: 100vh;
+}
+
+
+
+.title {
+    color: aliceblue;
+}
+
+header {
+    height: 10%;
+}
+
+main {
+    height: 80%;
+}
+
+footer {
+    height: 10%;
+}
+
+.section-list {
+    background-color: antiquewhite;
+    height: 100%;
+}
+
+.container-list,
+.list-cont,
+.container-list,
+.list-m {
+    height: 100%;
+}
+
+.bg-header-rn {
+    background-color: rgba(48, 96, 230, 0.904);
+}
+
+.list-cont {
+    background-color: rgb(238, 194, 139);
+    height: 100%;
+}
+
+.bg-color-list-m {
+    background-color: burlywood;
+}
